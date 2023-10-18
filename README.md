@@ -2,11 +2,11 @@
 
 ## Descrição
 
-O "Clone-Sistok" é a página inicial de um Sistema de Gestão para Empresas em desenvolvimento, focado em Desenvolvimento Front End.
+O Clone Netflix consiste na clonagem da página de perfil da Netflix.
 
 ## Objetivo
 
-O principal objetivo deste projeto é criar uma página inicial atraente e funcional usando os conceitos básicos de desenvolvimento Front End. Essa página faz parte de um sistema de gestão de empresas.
+O principal objetivo deste projeto é criar uma página inicial atraente e funcional usando os conceitos básicos de desenvolvimento Front End.
 
 ## Tecnologias Utilizadas
 
@@ -20,12 +20,13 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 
 Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
-- Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
-- Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
+- Utilização da fonte Netflix Sans.
+- Atuar de forma colaborativa utilizando o conceito de Pair Programming.
 
 ## Interface
 
-Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/979892246159607749) para ter uma visão detalhada de como o projeto se parece.
+Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/967543658879972914) para ter uma visão detalhada de como o projeto se parece.
+
 
 ## Preview
 
@@ -34,7 +35,6 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 ## Deploy
 
-O projeto está disponível em [Clone-Sistok no Vercel](https://sistok-murex.vercel.app/) para visualização.
+O projeto está disponível em [Clone-Netflix no Vercel](https://clone-netflix-xi-nine.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
-
+Seja bem-vindo ao Clone Netflix, e sinta-se à vontade para contribuir ou entrar em contato conosco!
